@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Guruvansh Singh" />
+    <meta name="description" content="Assignment_02" />
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Tamogachi-Game</title>
+  </head>
+  <body>
+    <!-- graphical content begins here -->
+    <div>
+    <input type="text" id="myText" placeholder="your-name">      
+    <h3 id="submit">get compliment</h3>
+    </div>
+
+    <main>
+      <section><img src="./img/giphy.gif"><h2 id="score"></h2></section>
+      <object data="img/tamagochi.svg" type="image/svg+xml" class="characterStyle" id="character"></object>
+      <aside>
+        <h1 id="message" class="message">Message:
+          <p id="description"></p>
+        </h1>
+      </aside>
+    </main>
+    <article>
+      <h3 id="btn6"> Start</h3>
+      <h3 id="btn0"> Feed me</h3>
+    </article>
+    <article>    
+      <h3 id="btn1"> Happy</h3>
+      <h3 id="btn2"> sad</h3>
+      <h3 id="btn3"> jokey</h3>
+      <h3 id="btn4"> angry</h3>
+    </article>
+    <!-- GSAP library -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js"></script>
+    <!-- Motion Path Plugin -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/MotionPathPlugin.min.js"></script>
+    <!-- js file -->
+    <script  src="js/index.js"></script>
+  </body>
+</html>

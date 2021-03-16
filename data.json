@@ -1,0 +1,48 @@
+{
+    "expressions" : [
+        {"mood" : "happy", "phrase" : "Extremly happy today."},
+        {"mood" : "happy", "phrase" : "Didn't thought this day would be fun."},
+        {"mood" : "happy", "phrase" : "I'm feeling so good."},
+        {"mood" : "happy", "phrase" : "Top to the bottom Just Cool."},
+        {"mood" : "happy", "phrase" : "Feeling happy, wanna go for Hiking?"},
+        {"mood" : "sad",   "phrase" : "I'm feeling Low."},
+        {"mood" : "sad",   "phrase" : "Bad day I guess."},
+        {"mood" : "sad",   "phrase" : "So much Homwork, who will do it?"},
+        {"mood" : "sad",   "phrase" : "This day is so booring."},
+        {"mood" : "sad",   "phrase" : "why can't Someone love me?"},
+        {"mood" : "jokey", "phrase" : "I'm on a Seafood Diet, I see food and eat it."},
+        {"mood" : "jokey", "phrase" : "So you're saying it's fun fun Friday Night."},
+        {"mood" : "jokey", "phrase" : "Unless your name is Google, stop acting like you know everything."},
+        {"mood" : "jokey", "phrase" : "What a funny person you're."},
+        {"mood" : "jokey", "phrase" : "Did you Listen to Kevin Hart on Netflix? That guy is very funny."},
+        {"mood" : "angry", "phrase" : "What did you just say?"},
+        {"mood" : "angry", "phrase" : "You making me angry."},
+        {"mood" : "angry", "phrase" : "So you saying we won't be friends anymore?"},
+        {"mood" : "angry", "phrase" : "i didn't ate anything and you clicking buttons for fun?"},
+        {"mood" : "angry", "phrase" : "Don't wanna ever see you again :("}
+    ],
+    "food" : [
+        {"name" : "Butter Chicken", "points": 40, "poisoningChance": 0.1},
+        {"name" : "Cookie", "points": 10, "poisoningChance": 0.1 },
+        {"name" : "Pizza", "points": 20, "poisoningChance": 0.9 },
+        {"name" : "Cake", "points": 10, "poisoningChance": 0.3 },
+        {"name" : "Donut", "points": 33, "poisoningChance": 0.2 },
+        {"name" : "Salad", "points":40, "poisoningChance": 0 },
+        {"name" : "Bread-Jam", "points": 15, "poisoningChance": 0.1 },
+        {"name" : "Fries", "points": 19, "poisoningChance": 0.5 },
+        {"name" : "Burger", "points": 20, "poisoningChance": 0.7 },
+        {"name" : "Avocado", "points": 30, "poisoningChance": 0.1 }
+    ],
+    "compliments": [
+        "Hope You're Doing Fine.",
+        "The way you treasure your loved ones is incredible.",
+        "What a nice name.",
+        "My Uncle name is also the same.",
+        "You're name is kinda similar to an american scientist.",
+        "looking Good.",
+        "I Know you're here to feed me.",
+        "So excited to play with you.",
+        "Looking Good in that Shirt.",
+        "Hope You bring Joy with you."
+    ]
+}

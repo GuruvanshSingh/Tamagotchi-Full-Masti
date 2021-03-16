@@ -1,2 +1,2 @@
-# Tamagotchi-Full-Masti
-Virtual pet
+# svgFace
+Examples of SVG and keyframe animation
